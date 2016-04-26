@@ -1,0 +1,19 @@
+{
+  "name": "elite-prospects-scraper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leluso/elite-prospects-scraper.git"
+  },
+  "author": "Justin Barber <Barber@outlook.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leluso/elite-prospects-scraper/issues"
+  },
+  "homepage": "https://github.com/leluso/elite-prospects-scraper#readme"
+}
